@@ -6,7 +6,8 @@ edition = "2021"
 authors = ["Gabriel Falcão Gonçalves De Moura <gabrielteratos@gmail.com>"]
 documentation = "https://docs.rs/athletic"
 readme = "README.md"
-license = "MIT or Apache-2.0"
+license = "Apache-2.0"
+license-file = "LICENSE-APACHE"
 
 [dependencies]
 clap = { version = "4.3.2", features = ["derive"] }
